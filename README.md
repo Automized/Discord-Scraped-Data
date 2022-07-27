@@ -49,9 +49,9 @@
     }
 
     downloaded_avatars: {
-        count: 136971
-        parsed: '136,971'
-        text: 'One Hundred Thirty-Six Thousand Nine Hundred Seventy-One'
+        count: 133756
+        parsed: '133,756'
+        text: 'One Hundred Thirty-Three Thousand Seven Hundred Fifty-Six'
     }
 }
 
